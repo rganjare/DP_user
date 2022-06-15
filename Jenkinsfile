@@ -1,4 +1,4 @@
 @Library('DP_shared-library@main') _
 
-env.COMPONENT="user"
+env.COMPONENT="DP_user"
 nodeJS()
